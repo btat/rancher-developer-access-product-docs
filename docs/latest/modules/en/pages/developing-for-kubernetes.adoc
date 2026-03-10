@@ -45,7 +45,7 @@ ____
 === 2.1 Diagram
 
 .Inner Loop and Outer Loop architecture – same trusted SUSE foundations on both sides
-image::images/inner-outer-loop.png[Inner Loop and Outer Loop architecture – same trusted SUSE foundations on both sides]
+image::inner-outer-loop.png[Inner Loop and Outer Loop architecture – same trusted SUSE foundations on both sides]
 
 === 2.2 Stack layers
 
